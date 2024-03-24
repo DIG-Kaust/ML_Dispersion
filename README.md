@@ -9,6 +9,7 @@ This repository is organized as follows:
 * :file_folder: **data**: folder containing data used for training/testing
     * :open_file_folder: **testing**: folder containing synthetic data generated for testing
     * :open_file_folder: **training**: folder containing synthetic data generated for training
+    * :open_file_folder: **test_example**: folder containing synthetic data generated for a 2D model used to test the peformance of the inversion
 * :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper as well as the two models trained (see below for more details);
 
 ## Notebooks
