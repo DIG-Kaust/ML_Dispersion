@@ -7,9 +7,8 @@ Chamorro D., Zhao J., Birnie C., Staring M., Fliedner M., Ravasi M.** submitted 
 This repository is organized as follows:
 
 * :file_folder: **data**: folder containing data used for training/testing
-    * :open_file_folder: **testing**: folder containing data generated for testing
-    * :open_file_folder: **training**: folder containing data generated for training
-    * :open_file_folder: **field_data**: folder containing field data used for infence
+    * :open_file_folder: **testing**: folder containing synthetic data generated for testing
+    * :open_file_folder: **training**: folder containing synthetic data generated for training
 * :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper as well as the two models trained (see below for more details);
 
 ## Notebooks
